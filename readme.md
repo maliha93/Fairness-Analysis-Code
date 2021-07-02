@@ -6,7 +6,7 @@ A comparative analysis of 13 fair classification approaches and their variations
 * Kamiran et al. ([KAIS 2012](https://link.springer.com/article/10.1007/s10115-011-0463-8)) 
 * Feldman et al. ([SIGKDD 2015](https://dl.acm.org/doi/10.1145/2783258.2783311))
 * Calmon et al. ([NIPS 2017](https://papers.nips.cc/paper/2017/hash/9a49a25d845a483fae4be7e341368e36-Abstract.html))
-* Zhang et al. ([IJCAI 2017](https://www.ijcai.org/Proceedings/2017/549)), ([SIGKDD 2017](https://dl.acm.org/doi/10.1145/3097983.3098167))
+* Zhang et al. ([IJCAI 2017](https://www.ijcai.org/Proceedings/2017/549), [SIGKDD 2017](https://dl.acm.org/doi/10.1145/3097983.3098167))
 * Salimi et al. ([SIGMOD 2019](https://dl.acm.org/doi/10.1145/3299869.3319901))
 
 ### In-processing approaches:
