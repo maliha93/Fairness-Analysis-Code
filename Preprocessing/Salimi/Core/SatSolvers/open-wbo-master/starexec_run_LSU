@@ -1,0 +1,9 @@
+#!/bin/bash
+
+delay=2
+wl=$(($STAREXEC_WALLCLOCK_LIMIT-$delay))
+
+filename=$(echo $1 | cut -f 1 -d '.')
+gunzip $1
+
+timeout -s 15 $wl ./open-wbo -algorithm=1 $filename

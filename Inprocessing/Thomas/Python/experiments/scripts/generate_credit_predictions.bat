@@ -1,0 +1,5 @@
+python -m experiments.classification.credit_predictions --definition DisparateImpact    --e -0.80 --n_iters 5000 --r_train_v_test 0.7 --r_cand_v_safe 0.4 --d 0.1 
+python -m experiments.classification.credit_predictions --definition DemographicParity  --e 0.15  --n_iters 5000 --r_train_v_test 0.7 --r_cand_v_safe 0.4 --d 0.05 
+python -m experiments.classification.credit_predictions --definition EqualizedOdds      --e 0.35  --n_iters 5000 --r_train_v_test 0.7 --r_cand_v_safe 0.4 --d 0.05 
+python -m experiments.classification.credit_predictions --definition PredictiveEquality --e 0.2   --n_iters 5000 --r_train_v_test 0.7 --r_cand_v_safe 0.4 --d 0.05 
+python -m experiments.classification.credit_predictions --definition EqualOpportunity   --e 0.2   --n_iters 5000 --r_train_v_test 0.7 --r_cand_v_safe 0.4 --d 0.05 

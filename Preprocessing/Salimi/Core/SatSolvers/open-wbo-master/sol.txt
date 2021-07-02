@@ -1,0 +1,29 @@
+c
+c Open-WBO:	 a Modular MaxSAT Solver -- based on Glucose4.1 (core version)
+c Version:	 2018 -- Release: 2.1
+c Authors:	 Ruben Martins, Vasco Manquinho, Ines Lynce
+c Contributors:	 Miguel Neves, Saurabh Joshi, Norbert Manthey, Mikolas Janota
+c Contact:	 open-wbo@sat.inesc-id.pt -- http://sat.inesc-id.pt/open-wbo/
+c
+c |                                                                                                       |
+c ========================================[ Problem Statistics ]===========================================
+c |                                                                                                       |
+c |  Problem Format:             MaxSAT                                                                   |
+c |  Problem Type:             Weighted                                                                   |
+c |  Number of variables:            32                                                                   |
+c |  Number of hard clauses:        512                                                                   |
+c |  Number of soft clauses:         32                                                                   |
+c |  Number of cardinality:           0                                                                   |
+c |  Number of PB :                   0                                                                   |
+c |  Parse time:                   0.00 s                                                                 |
+c |                                                                                                       |
+c ==========================================[ Solver Settings ]============================================
+c |                                                                                                       |
+c |  Algorithm:                     OLL                                                                   |
+c |  Cardinality Encoding:    Totalizer                                                                   |
+c |                                                                                                       |
+o 1700
+o 1300
+o 300
+s OPTIMUM FOUND
+v 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 -17 -18 -19 -20 -21 -22 -23 -24 -25 -26 -27 -28 -29 -30 -31 -32 

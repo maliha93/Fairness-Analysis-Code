@@ -1,0 +1,81 @@
+{
+  "files": [
+    "CONTRIBUTING.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "emrekiciman",
+      "name": "emrekiciman",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/5982160?v=4",
+      "profile": "https://github.com/emrekiciman",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "amit-sharma",
+      "name": "Amit Sharma",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1775381?v=4",
+      "profile": "https://github.com/amit-sharma",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "akelleh",
+      "name": "Adam Kelleher",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1762368?v=4",
+      "profile": "http://adamkelleher.com",
+      "contributions": [
+        "code",
+        "content"
+      ]
+    },
+    {
+      "login": "Tanmay-Kulkarni101",
+      "name": "Tanmay Kulkarni",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17275495?v=4",
+      "profile": "https://github.com/Tanmay-Kulkarni101",
+      "contributions": [
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "vojavocni",
+      "name": "Aleksandar Jovanovic",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40206443?v=4",
+      "profile": "https://github.com/vojavocni",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "n8sty",
+      "name": "nate giraldi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2964996?v=4",
+      "profile": "https://github.com/n8sty",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "yaakx",
+      "name": "Julen Corral",
+      "avatar_url": "https://avatars.githubusercontent.com/u/54352800?v=4",
+      "profile": "https://github.com/yaakx",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "dowhy",
+  "projectOwner": "microsoft",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

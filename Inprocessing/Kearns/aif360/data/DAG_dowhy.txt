@@ -1,0 +1,11 @@
+#DAGs in str format for the dowhy library
+
+Adult:
+digraph {race->income; race->occupation; race->hours_per_week; race->edu_level; race->marital_status; age->income; age->occupation; age->hours_per_week; age->workclass; age->marital_status; age->edu_level; age->relationship; sex->occupation; sex->hours_per_week; sex->edu_level; sex->marital_status; sex->relationship; sex->income; native_country->marital_status; native_country->edu_level; native_country->hours_per_week; native_country->workclass; native_country->relationship; native_country->income; marital_status->occupation; marital_status->hours_per_week; marital_status->income; marital_status->workclass; marital_status->edu_level; marital_status->relationship; edu_level->occupation; edu_level->hours_per_week; edu_level->workclass; edu_level->relationship; edu_level->income; occupation->income; hours_per_week->income; workclass->income; relationship->income}
+
+Compas:
+digraph {Age->Race; Age->Prior; Age->two_year_recid; Sex->Race; Sex->Prior; Sex->two_year_recid; Race->Prior; Prior->two_year_recid}
+
+
+German:
+digraph {Sex->Credit_amount; Sex->Investment; Sex->Savings; Sex->Housing; Sex->Property; Sex->Month; Sex->Status; Sex->Credit_history; Age->Credit_amount; Age->Investment; Age->Savings; Age->Housing; Age->Property; Age->Month; Age->Status; Age->Credit_history; Credit_amount->credit; Investment->credit; Savings->credit; Housing->credit; Property->credit; Month->credit; Status->credit; Credit_history->credit}

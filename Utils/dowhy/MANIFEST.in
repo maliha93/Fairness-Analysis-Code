@@ -1,0 +1,6 @@
+include requirements.txt
+include requirements-plotting.txt
+include LICENSE
+include dowhy/VERSION
+recursive-include docs *
+recursive-include tests *.py
