@@ -1,6 +1,6 @@
 # A Data Management Perspective on Fair Classification: An Experimental Analysis and Evaluation
 
-A comparative analysis of 13 fair classification approaches and their variations. 
+The official source code for [Through the Data Management Lens: Experimental Analysis and Evaluation of Fair Classification](https://arxiv.org/abs/2101.07361). This repository is used to provide a comparative analysis of 13 fair classification approaches and their variations.   
 
 ### Pre-processing approaches:
 * Kamiran et al. ([KAIS 2012](https://link.springer.com/article/10.1007/s10115-011-0463-8)) 
